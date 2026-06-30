@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Web3 Analyzer",
+  "description": "A cyberpunk-styled Web3 trading analyzing agent powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
