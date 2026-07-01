@@ -2,6 +2,14 @@
 
 Nexus is a cyberpunk-styled Web3 trading analyzing agent. It acts as an advanced analyzer simulation to provide insights on crypto markets, analyze tokens, and give strategic trading advice based on live data and historical context.
 
+## Demo
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ChopinNo3Op9/Nexus/main/demo.gif" 
+       alt="QuantForge Demo" 
+       width="100%">
+</div>
+
 ## Features
 
 - **Cyberpunk UI**: A highly stylized, terminal-like interface with live market data visualizations.
